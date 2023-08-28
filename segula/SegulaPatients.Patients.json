@@ -1,0 +1,133 @@
+[{
+  "_id": {
+    "$oid": "64aefdb4bfbd34df9d62346d"
+  },
+  "documentType": "cedula",
+  "documentNumber": "1019041167",
+  "nationality": "colombia",
+  "patientName": "andres",
+  "patientLastname": "garzon",
+  "birthDate": "14-11-1989",
+  "patientAge": "33",
+  "genderPatient": "masculino",
+  "sexPatient": "masculino",
+  "addressPatient": "cl 71 71 13",
+  "statePatient": "bogota",
+  "cityPatient": "bogota",
+  "cellphonePatient": "3227916262",
+  "contactPhone": "3112466214"
+},
+{
+  "_id": {
+    "$oid": "64aefe3fbfbd34df9d623472"
+  },
+  "documentType": "cedula",
+  "documentNumber": "1019103657",
+  "nationality": "colombiano",
+  "patientName": "laura",
+  "patientLastname": "garzon",
+  "birthDate": "17-01-1995",
+  "patientAge": "28",
+  "genderPatient": "femenino",
+  "sexPatient": "femenino",
+  "addressPatient": "chinauta",
+  "statePatient": "cundinamarca",
+  "cityPatient": "chinauta",
+  "cellphonePatient": "3164459259",
+  "contactPhone": "3112466214"
+},
+{
+  "_id": {
+    "$oid": "64aeffc497418cb48c6d639c"
+  },
+  "documentType": "cedula",
+  "documentNumber": "2765378",
+  "nationality": "colombiano",
+  "patientName": "cecilia",
+  "patientLastname": "molina",
+  "birthDate": "30-07-1930",
+  "patientAge": "92",
+  "genderPatient": "femenino",
+  "sexPatient": "femenino",
+  "addressPatient": "guateque",
+  "statePatient": "boyaca",
+  "cityPatient": "guateque",
+  "cellphonePatient": "3124873209",
+  "contactPhone": "3109472094"
+},
+{
+  "_id": {
+    "$oid": "64af04fcf671042ea887ec30"
+  },
+  "documentType": "cedula",
+  "documentNumber": "4536876",
+  "nationality": "mexicano",
+  "patientName": "daniel",
+  "patientLastname": "medrano",
+  "birthDate": "12-3-1998",
+  "patientAge": "24",
+  "genderPatient": "masculino",
+  "sexPatient": "masculino",
+  "addressPatient": "av bolivariana",
+  "statePatient": "jalisco",
+  "cityPatient": "jalisco",
+  "cellphonePatient": "3096547865",
+  "contactPhone": "3126758754"
+},
+{
+  "_id": {
+    "$oid": "64b0219d24ffdbd11eab7ba0"
+  },
+  "documentType": "cedula",
+  "documentNumber": "1019456278",
+  "nationality": "colombiano",
+  "patientName": "Lorena",
+  "patientLastname": "Benitez",
+  "birthDate": "12-3-2005",
+  "patientAge": "18",
+  "genderPatient": "femenino",
+  "sexPatient": "femenino",
+  "addressPatient": "av suba 123",
+  "statePatient": "bogota",
+  "cityPatient": "bogota",
+  "cellphonePatient": "3126743290",
+  "contactPhone": "3187462908"
+},
+{
+  "_id": {
+    "$oid": "64b0240e6ebd2e11d58b0b80"
+  },
+  "documentType": "cedula",
+  "documentNumber": "51784302",
+  "nationality": "panameño",
+  "patientName": "sergio",
+  "patientLastname": "otalora",
+  "birthDate": "23-4-2001",
+  "patientAge": "22",
+  "genderPatient": "masculino",
+  "sexPatient": "masculino",
+  "addressPatient": "av caracas 23",
+  "statePatient": "ciudad de panama",
+  "cityPatient": "ciudad de panama",
+  "cellphonePatient": "3023904387",
+  "contactPhone": "312873454"
+},
+{
+  "_id": {
+    "$oid": "64b024726ebd2e11d58b0b82"
+  },
+  "documentType": "pasaporte",
+  "documentNumber": "63748394",
+  "nationality": "nicaraguense",
+  "patientName": "dominic",
+  "patientLastname": "lost",
+  "birthDate": "30-01-1999",
+  "patientAge": "24",
+  "genderPatient": "masculino",
+  "sexPatient": "masculino",
+  "addressPatient": "dg 56 20 12",
+  "statePatient": "managua",
+  "cityPatient": "managua",
+  "cellphonePatient": "3203847463",
+  "contactPhone": "32098764323"
+}]
